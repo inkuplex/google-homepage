@@ -1,0 +1,22 @@
+div img {
+	display:block;
+	margin: 0 auto;
+	margin-top:15%;
+}
+
+.search {
+	display:block;
+	border: solid thin blue;
+	width: 500px;
+	height:25px;
+	padding:5px 9px 0;
+	margin: 0 auto;
+}
+
+.buttons input:nth-child(1) {
+	margin-left:40%;
+}
+
+.buttons input:nth-child(2) {
+	margin-left:1%;
+}
