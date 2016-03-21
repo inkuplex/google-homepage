@@ -4,17 +4,30 @@ div img {
 	margin-top:15%;
 }
 
-heading {
-	font-size:12px;
-	position:absolute;
-	right:0px;
+.navcontainer{
+	float:right;
 	border:solid thin black;
-	top: 5px;
+	margin-top:-16%;
+	padding-botom:10%;
+}
+
+.toplinks {
+	display:absolute;
+	font-family:Arial;
+	font-size:16px;
+	border:solid thin black
+	color:gray;
+	bottom:10px;
 
 }
 
-heading input {
+.profilepic {
+	diplay:inline;
+	height:35px;
+	width:32px;
+	border-radius: 100px;
 	display:inline;
+	margin-left: 5px;
 }
 
 footer div {
